@@ -1,0 +1,5 @@
+45.39.25.168:5603:flashproxycombr:flash01proxys
+91.123.10.114:6656:flashproxycombr:flash01proxys
+104.252.109.214:7147:flashproxycombr:flash01proxys
+92.112.170.119:6088:flashproxycombr:flash01proxys
+104.253.13.47:5479:flashproxycombr:flash01proxys
